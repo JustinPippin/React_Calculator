@@ -1,0 +1,8 @@
+.Screen {
+    height: 25vh;
+    width: 100%;
+    background-color: rgb(62, 207, 255);
+    color: black;
+    overflow: hidden;
+    white-space: nowrap;
+}
